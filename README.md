@@ -1,18 +1,38 @@
+# Welcome!!!
+
 <div>
-  <iframe src="https://giphy.com/embed/TzbjriICSe4QE" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pokegraphic-eevee-pokemon-gif-TzbjriICSe4QE">via GIPHY</a></p>
+  <img src="https://media.tenor.com/qvQpDge-RrsAAAAi/eevee-dance-moves.gif">
 </div>
 
-<!--
-**UntossibleTrash007/UntossibleTrash007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My name is Aedan, I'm a third year computing systems and media studies student who is very passionate about games, algorithms, and game development.
 
-Here are some ideas to get you started:
+I find algorithmic problems very facinating, and typically use C#, C, C++, Python, or Java when dealing with algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for your time!!
+
+## What I Use
+
+### IDE/ Text Editor/ Dev Tools
+
+- VSCode
+- Godot
+
+### Skills
+
+#### Languages
+
+- C
+- C#
+- C++
+- Python
+- Java
+
+#### Front-End
+
+- Html
+- CSS
+- Javascript
+
+#### Databases
+
+- MySQL
