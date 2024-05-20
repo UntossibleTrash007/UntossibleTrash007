@@ -1,7 +1,7 @@
 # Welcome!!!
 
 
-<div style="text-align: center">
+<div align="center">
   <img src="https://media.tenor.com/qvQpDge-RrsAAAAi/eevee-dance-moves.gif">
 </div>
 
